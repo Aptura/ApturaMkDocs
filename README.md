@@ -1,3 +1,3 @@
 # ApturaMkDocs
 
-Testing Github Action for autodeploy MkDocs. 
+Testing Github Action for autodeploy MkDocs.
