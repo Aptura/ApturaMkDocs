@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Les bases de mkdocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
