@@ -29,4 +29,6 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Deplacement
-        run: mv site/* /var/www/html
+        run: | 
+          rm -rf /var/www/html/*
+          mv site/* /var/www/html
