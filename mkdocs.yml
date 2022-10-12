@@ -3,5 +3,6 @@ theme:
   name: material
 nav:
   - Home: 'index.md'
-    - 'Mkdocs bases': 'mkdocstips.md'
+    - 'Mkdocs bases':
+        - 'Starting pages': 'mkdocstips.md'
   - Github: 'github.md'
