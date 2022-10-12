@@ -1,3 +1,6 @@
 site_name: Documentations
 theme:
   name: material
+nav:
+  - Home: 'index.md'
+  - Github: 'github.md'
