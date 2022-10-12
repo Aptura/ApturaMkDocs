@@ -4,5 +4,5 @@ theme:
 nav:
   - Home: 'index.md'
     - 'Mkdocs bases':
-        - 'Starting pages': 'mkdocstips.md'
+      - 'Starting pages': 'mkdocstips.md'
   - Github: 'github.md'
